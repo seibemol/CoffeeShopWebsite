@@ -1,5 +1,5 @@
 # CoffeeShopWebsite
- Coffee shop website with HTML5, CSS3 & JavaScript.
+ Responsive coffee shop website with HTML5, CSS3 & JavaScript.
 
 ![Screenshots](screenshots/desktop1.png)
 ![Screenshots](screenshots/desktop2.png)
